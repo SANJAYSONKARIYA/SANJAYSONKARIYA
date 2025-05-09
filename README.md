@@ -1,21 +1,23 @@
 <h1 align="center">👋 Hey there! I’m Sanjay Sonkariya</h1>
 <h3 align="center">🚀 Web Developer | 🤖 AI/ML Enthusiast | ⚙️ DevOps Engineer | Building the Future, One Line at a Time.</h3>
-<!--
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjaysonkariya&label=Profile%20views&color=0e75b6&style=flat" alt="sanjaysonkariya" /> </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjaysonkariya&label=Profile%20views&color=0e75b6&style=flat" alt="sanjaysonkariya" /> </p>
+<!--
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanjaysonkariya" alt="sanjaysonkariya" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/sanjaysonkariya" target="blank"><img src="https://img.shields.io/twitter/follow/sanjaysonkariya?logo=twitter&style=for-the-badge" alt="sanjaysonkariya" /></a> </p>
 -->
 
+
+
 - 🔭 I’m currently working on [Big Exam Portal](https://github.com/SANJAYSONKARIYA/bigexamportal)
 
 - 🌱 I’m currently learning **Diving deeper into Advanced Web Development, mastering modern JavaScript frameworks (like Next.js, React.js, and Angular.js), exploring powerful CRM systems, and pushing boundaries in AI & Machine Learning. Always leveling up! 🚀**
-
+<!--
 - 👯 I’m looking to collaborate on [working](working_link)
 
 - 🤝 I’m looking for help with [working](working_link)
-
+-->
 - 👨‍💻 All of my projects are available at [https://sanjaysonkariya.github.io/my-portfolio/](https://sanjaysonkariya.github.io/my-portfolio/)
 
 - 📝 I regularly write articles on [https://sanjaysonkariya.medium.com/](https://sanjaysonkariya.medium.com/)
@@ -27,11 +29,11 @@
 - 📄 Know about my experiences [https://sanjaysonkariya.github.io/my-resume/](https://sanjaysonkariya.github.io/my-resume/)
 
 - ⚡ Fun fact **I automate tasks so well, sometimes I forget how to do them manually 😄🤖 — and yes, my coffee consumption scales with my code complexity!**
-
+<!--
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-
+-->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sanjay sonkariya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanjay sonkariya" height="30" width="40" /></a>
