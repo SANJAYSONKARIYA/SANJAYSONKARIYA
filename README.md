@@ -51,5 +51,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanjaysonkariya&" alt="sanjaysonkariya" /></p>
 
 <div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sanjaysonkariya&theme=github_dark" alt="sanjaysonkariya"GitHub Stats"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sanjaysonkariya&theme=github_dark" alt="sanjaysonkariya GitHub Stats" />
 </div>
