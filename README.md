@@ -56,3 +56,11 @@
 -->
 
 ![CARD](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sanjaysonkariya&theme=gruvbox)
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif" />
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400" />
+<img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="400" />
+<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="400" />
+<img src="https://i.imgur.com/Hi1WQgV.png" alt="Sanjay's Banner" width="100%" />
+
