@@ -49,3 +49,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanjaysonkariya&show_icons=true&locale=en" alt="sanjaysonkariya" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanjaysonkariya&" alt="sanjaysonkariya" /></p>
+
+<div align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sanjaysonkariya&theme=github_dark" alt="sanjaysonkariya" 's GitHub Stats"/>
+</div>
